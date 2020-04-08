@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6b05647-7342-4655-970e-3b93956754e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
+            <state relative-caret-position="359">
+              <caret line="132" column="41" lean-forward="true" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+            <state relative-caret-position="131">
+              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
               <folding>
                 <element signature="e#0#598#0" expanded="true" />
               </folding>
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+            <state relative-caret-position="435">
+              <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -145,16 +145,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainDatabase.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainNetwork.kt" />
         <option value="$PROJECT_DIR$/src/debug/java/com/example/android/kotlincoroutines/fakes/TestingFakes.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
         <option value="$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1680" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="32" />
+    <option name="width" value="1680" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -401,7 +401,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android App.start">
+  <component name="RunManager" selected="Android JUnit.TitleRepositoryTest">
     <configuration name="MainViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="start" />
       <extension name="coverage">
@@ -413,6 +413,39 @@
       <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
       <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.MainViewModelTest" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleRepositoryTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.android.kotlincoroutines.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.TitleRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleRepositoryTest.whenRefreshTitleTimeout_throws" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.android.kotlincoroutines.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.android.kotlincoroutines.main" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.kotlincoroutines.main.TitleRepositoryTest" />
+      <option name="METHOD_NAME" value="whenRefreshTitleTimeout_throws" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
@@ -533,6 +566,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.TitleRepositoryTest" />
+        <item itemvalue="Android JUnit.TitleRepositoryTest.whenRefreshTitleTimeout_throws" />
         <item itemvalue="Android JUnit.MainViewModelTest" />
       </list>
     </recent_temporary>
@@ -560,6 +595,15 @@
     <history-entry file="MainViewModelTest - 2020.04.03 at 22h 55m 57s.xml">
       <configuration name="MainViewModelTest" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="TitleRepositoryTest_whenRefreshTitleTimeout_throws - 2020.04.06 at 21h 38m 03s.xml">
+      <configuration name="TitleRepositoryTest.whenRefreshTitleTimeout_throws" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="TitleRepositoryTest_whenRefreshTitleTimeout_throws - 2020.04.06 at 21h 39m 35s.xml">
+      <configuration name="TitleRepositoryTest.whenRefreshTitleTimeout_throws" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="TitleRepositoryTest - 2020.04.06 at 21h 39m 53s.xml">
+      <configuration name="TitleRepositoryTest" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,7 +627,7 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" weight="0.32945284" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.32908705" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32945284" />
       <window_info anchor="bottom" id="Debug" order="3" />
@@ -656,13 +700,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="106" column="11" selection-start-line="106" selection-start-column="11" selection-end-line="106" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainDatabase.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -695,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/TitleRepository.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+        <state relative-caret-position="131">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
           <folding>
             <element signature="e#0#598#0" expanded="true" />
           </folding>
@@ -705,8 +742,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/example/android/kotlincoroutines/main/TitleRepositoryTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+        <state relative-caret-position="435">
+          <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/android/kotlincoroutines/main/MainViewModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="132" column="41" lean-forward="true" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
         </state>
       </provider>
     </entry>
